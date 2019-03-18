@@ -1,0 +1,34 @@
+{
+  "tutorial": [
+     {
+      "tutorialId": "1235",
+      "termCode": "F-2018",
+      "days": "24",
+      "startTime": "0900",
+      "endTime": "0950",
+      "leader": "panteate",
+      "roomId": "192",
+      "maxEnrollment": "20",
+      "title": "Super Cool LARC Section",
+      "courseCodes": [
+        '99105',
+        '99232'
+      ]
+    },
+    {
+      "tutorialId": "12346",
+      "termCode": "F-2018",
+      "days": "24",
+      "startTime": "0900",
+      "endTime": "0950",
+      "leader": "panteate",
+      "roomId": "193",
+      "maxEnrollment": "20",
+      "title": "Super Cool LARC Section",
+      courseCodes": [
+        '99235',
+        '99236'
+      ]
+    },
+  ],
+}

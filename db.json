@@ -1,7 +1,7 @@
 {
   "tutorial": [
      {
-      "tutorialId": "1235",
+      "id": "1235",
       "termCode": "F-2018",
       "days": "24",
       "startTime": "0900",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "tutorialId": "12346",
+      "id": "12346",
       "termCode": "F-2018",
       "days": "24",
       "startTime": "0900",

@@ -1,62 +1,67 @@
 {
-	"term": [{
-		"id": "F-2018",
-		"tutorial": [{
-				"id": "1235",
-				"termCode": "F-2018",
-				"days": "24",
-				"startTime": "0900",
-				"endTime": "0950",
-				"leader": "panteate",
-				"roomId": "192",
-				"maxEnrollment": "20",
-				"title": "Super Cool LARC Section",
-				"courseCodes": [
-					"99105",
-					"99232"
-				],
-				"enrollment": [{
-						"id": "1",
-						"campusId": "999999999991"
-					},
-					{
-						"id": "2",
-						"campusId": "999999999992"
-					},
-					{
-						"id": "3",
-						"campusId": "999999999993"
-					}
-				]
-			},
-			{
-				"id": "12346",
-				"termCode": "F-2018",
-				"days": "24",
-				"startTime": "0900",
-				"endTime": "0950",
-				"leader": "panteate",
-				"roomId": "193",
-				"maxEnrollment": "20",
-				"title": "Super Cool LARC Section",
-				"courseCodes": [
-					"99235",
-					"99236"
-				],
-				"enrollment": [{
-						"id": "3",
-						"campusId": "999999999993"
-					},
-					{
-						"id": "4",
-						"campusId": "999999999994"
-					},
-					{
-						"id": "5",
-						"campusId": "999999999995"
-					}
-				]
-			}
-		]
-	}]
+   "term":[
+      {
+         "id":"F-2018",
+         "tutorial":[
+            {
+               "id":"1235",
+               "termCode":"F-2018",
+               "days":"24",
+               "startTime":"0900",
+               "endTime":"0950",
+               "leader":"panteate",
+               "roomId":"192",
+               "maxEnrollment":"20",
+               "title":"Super Cool LARC Section",
+               "courseCodes":[
+                  "99105",
+                  "99232"
+               ],
+               "enrollment":[
+                  {
+                     "id":"1",
+                     "campusId":"999999999991"
+                  },
+                  {
+                     "id":"2",
+                     "campusId":"999999999992"
+                  },
+                  {
+                     "id":"3",
+                     "campusId":"999999999993"
+                  }
+               ]
+            },
+            {
+               "id":"12346",
+               "termCode":"F-2018",
+               "days":"24",
+               "startTime":"0900",
+               "endTime":"0950",
+               "leader":"panteate",
+               "roomId":"193",
+               "maxEnrollment":"20",
+               "title":"Super Cool LARC Section",
+               "courseCodes":[
+                  "99235",
+                  "99236"
+               ],
+               "enrollment":[
+                  {
+                     "id":"3",
+                     "campusId":"999999999993"
+                  },
+                  {
+                     "id":"4",
+                     "campusId":"999999999994"
+                  },
+                  {
+                     "id":"5",
+                     "campusId":"999999999995"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }

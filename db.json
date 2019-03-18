@@ -11,8 +11,8 @@
       "maxEnrollment": "20",
       "title": "Super Cool LARC Section",
       "courseCodes": [
-        '99105',
-        '99232'
+        "99105",
+        "99232"
       ]
     },
     {
@@ -25,9 +25,9 @@
       "roomId": "193",
       "maxEnrollment": "20",
       "title": "Super Cool LARC Section",
-      courseCodes": [
-        '99235',
-        '99236'
+      "courseCodes": [
+        "99235",
+        "99236"
       ]
     },
   ],

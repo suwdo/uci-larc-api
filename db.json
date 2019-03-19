@@ -1,49 +1,46 @@
 {
-   "terms":[
-      {
-         "id":"F-2018",
-         "tutorials":[
-            {
-               "id":"1235",
-               "termCode":"F-2018",
-               "days":"24",
-               "startTime":"0900",
-               "endTime":"0950",
-               "leaderCampusId":"000000076728",
-               "building":"MSTB",
-               "room":"192",
-               "title":"Super Cool LARC Section",
-               "courseCodes":[
-                  "99105",
-                  "99232"
-               ],
-               "enrollments":[
-                  "222222222210",
-                  "222222222211",
-                  "222222222212",
-               ]
-            },
-            {
-               "id":"12346",
-               "termCode":"F-2018",
-               "days":"24",
-               "startTime":"0900",
-               "endTime":"0950",
-               "leaderCampusId":"000000076728",
-               "building":"MSTB",
-               "room":"192",
-               "title":"Super Cool LARC Section",
-               "courseCodes":[
-                  "99235",
-                  "99236"
-               ],
-               "enrollments":[
-                  "222222222211",
-                  "222222222212",
-                  "222222222213",
-               ]
-            }
-         ]
-      }
-   ]
+	"terms": [{
+		"id": "F-2018",
+		"tutorials": [{
+				"id": "1235",
+				"termCode": "F-2018",
+				"days": "24",
+				"startTime": "0900",
+				"endTime": "0950",
+				"leaderCampusId": "000000076728",
+				"building": "MSTB",
+				"room": "192",
+				"title": "Super Cool LARC Section",
+				"courseCodes": [
+					"99105",
+					"99232"
+				],
+				"enrollments": [
+					"222222222210",
+					"222222222211",
+					"222222222212"
+				]
+			},
+			{
+				"id": "12346",
+				"termCode": "F-2018",
+				"days": "24",
+				"startTime": "0900",
+				"endTime": "0950",
+				"leaderCampusId": "000000076728",
+				"building": "MSTB",
+				"room": "192",
+				"title": "Super Cool LARC Section",
+				"courseCodes": [
+					"99235",
+					"99236"
+				],
+				"enrollments": [
+					"222222222211",
+					"222222222212",
+					"222222222213"
+				]
+			}
+		]
+	}]
 }

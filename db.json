@@ -1,162 +1,157 @@
-[
-  {
-    "id": "W-2019",
-    "tutorials": [
-      {
-        "id": "77170",
-        "termCode": "W-2019",
-        "days": "24",
-        "startTime": "1000",
-        "endTime": "1050",
-        "leaderCampusId": "000001381051",
-        "building": "ICS",
-        "room": "171",
-        "title": "LARC Tutorial for I&C Sci 31 [Alfaro]",
-        "courseCodes": [
-          "36050"
-        ],
-        "enrollments": [
-          "000001600166",
-          "000001455207",
-          "000001649407",
-          "000001681989",
-          "000001596753",
-          "000001627989",
-          "000001676064",
-          "000001532839",
-          "000001629129",
-          "000001472618",
-          "000001646372",
-          "000001460707",
-          "000001239977"
-        ]
-      },
-      {
-        "id": "77171",
-        "termCode": "W-2019",
-        "days": "24",
-        "startTime": "1300",
-        "endTime": "1350",
-        "leaderCampusId": "000001381051",
-        "building": "ALP",
-        "room": "3730",
-        "title": "LARC Tutorial for I&C Sci 31 [Alfaro]",
-        "courseCodes": [
-          "36050"
-        ],
-        "enrollments": [
-          "000001571357",
-          "000001615760",
-          "000001481582",
-          "000001595207",
-          "000001451015",
-          "000001590824",
-          "000001511573",
-          "000001684138",
-          "000001602179",
-          "000001586048",
-          "000001610606",
-          "000001352290",
-          "000001562108"
-        ]
-      },
-      {
-        "id": "77172",
-        "termCode": "W-2019",
-        "days": "35",
-        "startTime": "1600",
-        "endTime": "1650",
-        "leaderCampusId": "000001381051",
-        "building": "ICS",
-        "room": "171",
-        "title": "LARC Tutorial for I&C Sci 31 [Alfaro]",
-        "courseCodes": [
-          "36050"
-        ],
-        "enrollments": [
-          "000001534008",
-          "000001639791",
-          "000001496992",
-          "000001538483",
-          "000001656921",
-          "000001605912",
-          "000001679407",
-          "000001587521",
-          "000001604187",
-          "000001669364",
-          "000001632834",
-          "000001570512",
-          "000001613995"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "F-2018",
-    "tutorials": [
-      {
-        "id": "1235",
-        "termCode": "F-2018",
-        "days": "24",
-        "startTime": "0900",
-        "endTime": "0950",
-        "leaderCampusId": "000000076728",
-        "building": "MSTB",
-        "room": "192",
-        "title": "Super Cool LARC Section",
-        "courseCodes": [
-          "99105",
-          "99232"
-        ],
-        "enrollments": [
-          "000000147816",
-          "000000992105",
-          "222222222212"
-        ]
-      },
-      {
-        "id": "12346",
-        "termCode": "F-2018",
-        "days": "24",
-        "startTime": "0900",
-        "endTime": "0950",
-        "leaderCampusId": "000000076728",
-        "building": "MSTB",
-        "room": "192",
-        "title": "Super Cool LARC Section",
-        "courseCodes": [
-          "99235",
-          "99236"
-        ],
-        "enrollments": [
-          "000000147816",
-          "000000992105",
-          "222222222213"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Z-2019",
-    "tutorials": [
-      {
-        "id": "99115",
-        "termCode": "Z-2019",
-        "days": "24",
-        "startTime": "0900",
-        "endTime": "0950",
-        "leaderCampusId": "000000076728",
-        "building": "MSTB",
-        "room": "192",
-        "title": "LARC Tutorial for Test History of User EX [VADNAIS]",
-        "courseCodes": [
-          "99115",
-        ],
-        "enrollments": [
-          "000000475054",
-          "000000475055"
-        ]
-      }
-    ]
-  }
+[{
+		"id": "W-2019",
+		"tutorials": [{
+				"id": "77170",
+				"termCode": "W-2019",
+				"days": "24",
+				"startTime": "1000",
+				"endTime": "1050",
+				"leaderCampusId": "000001381051",
+				"building": "ICS",
+				"room": "171",
+				"title": "LARC Tutorial for I&C Sci 31 [Alfaro]",
+				"courseCodes": [
+					"36050"
+				],
+				"enrollments": [
+					"000001600166",
+					"000001455207",
+					"000001649407",
+					"000001681989",
+					"000001596753",
+					"000001627989",
+					"000001676064",
+					"000001532839",
+					"000001629129",
+					"000001472618",
+					"000001646372",
+					"000001460707",
+					"000001239977"
+				]
+			},
+			{
+				"id": "77171",
+				"termCode": "W-2019",
+				"days": "24",
+				"startTime": "1300",
+				"endTime": "1350",
+				"leaderCampusId": "000001381051",
+				"building": "ALP",
+				"room": "3730",
+				"title": "LARC Tutorial for I&C Sci 31 [Alfaro]",
+				"courseCodes": [
+					"36050"
+				],
+				"enrollments": [
+					"000001571357",
+					"000001615760",
+					"000001481582",
+					"000001595207",
+					"000001451015",
+					"000001590824",
+					"000001511573",
+					"000001684138",
+					"000001602179",
+					"000001586048",
+					"000001610606",
+					"000001352290",
+					"000001562108"
+				]
+			},
+			{
+				"id": "77172",
+				"termCode": "W-2019",
+				"days": "35",
+				"startTime": "1600",
+				"endTime": "1650",
+				"leaderCampusId": "000001381051",
+				"building": "ICS",
+				"room": "171",
+				"title": "LARC Tutorial for I&C Sci 31 [Alfaro]",
+				"courseCodes": [
+					"36050"
+				],
+				"enrollments": [
+					"000001534008",
+					"000001639791",
+					"000001496992",
+					"000001538483",
+					"000001656921",
+					"000001605912",
+					"000001679407",
+					"000001587521",
+					"000001604187",
+					"000001669364",
+					"000001632834",
+					"000001570512",
+					"000001613995"
+				]
+			}
+		]
+	},
+	{
+		"id": "F-2018",
+		"tutorials": [{
+				"id": "1235",
+				"termCode": "F-2018",
+				"days": "24",
+				"startTime": "0900",
+				"endTime": "0950",
+				"leaderCampusId": "000000076728",
+				"building": "MSTB",
+				"room": "192",
+				"title": "Super Cool LARC Section",
+				"courseCodes": [
+					"99105",
+					"99232"
+				],
+				"enrollments": [
+					"000000147816",
+					"000000992105",
+					"222222222212"
+				]
+			},
+			{
+				"id": "12346",
+				"termCode": "F-2018",
+				"days": "24",
+				"startTime": "0900",
+				"endTime": "0950",
+				"leaderCampusId": "000000076728",
+				"building": "MSTB",
+				"room": "192",
+				"title": "Super Cool LARC Section",
+				"courseCodes": [
+					"99235",
+					"99236"
+				],
+				"enrollments": [
+					"000000147816",
+					"000000992105",
+					"222222222213"
+				]
+			}
+		]
+	},
+	{
+		"id": "Z-2019",
+		"tutorials": [{
+			"id": "99115",
+			"termCode": "Z-2019",
+			"days": "24",
+			"startTime": "0900",
+			"endTime": "0950",
+			"leaderCampusId": "000000076728",
+			"building": "MSTB",
+			"room": "192",
+			"title": "LARC Tutorial for Test History of User EX [VADNAIS]",
+			"courseCodes": [
+				"99115"
+			],
+			"enrollments": [
+				"000000475054",
+				"000000475055"
+			]
+		}]
+	}
 ]
